@@ -5,6 +5,9 @@
 ## the second function cacheSolve calculates the inverse  of the matrix
 ## if it hasn't been calucating already, otherwise it returns the cached value
 ##
+## This code was largely inspired by the sample code provided for this coursera course:
+# https://class.coursera.org/rprog-011/human_grading/view/courses/973492/assessments/3/submissions
+##
 ## # Last modified February 19th, 10:38pm EST
 #
 # The first function is makeCacheMatrix
